@@ -1,16 +1,20 @@
-(#title) A ***(another)*** linked list library
+# A ***(another)*** linked list library
 Linked list header only library for c++ 
+1.[Run test's](#tests)
+2.Install for project
+3. Documentation
 
-
+# Tests
 To run test's:
 1. Download files
 2. Compile files with `gcc -o main main.cpp`
 
+# Projets
 To use in a project:
 1. Download files
 2. Drag header files (linkedlist.h, node.h) into your project.
 
-Documentation:
+# Documentation:
 
 Start by importing into project `import "linkedlist.h"`
 

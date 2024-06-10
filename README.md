@@ -16,18 +16,27 @@ Start by importing into project `import "linkedlist.h"`
 Functions:
 
 `LinkedList()` - Linked list contrusctor. 
+
   example - `LinkedList<std::string> LinkedListForStrings;`
 
+
 `add(T value)` - Adds a value to the list.
+
   example - `LinkedListForStrings.add("hello");`
+
 
 `print()` - Prints the whole linked list.
 
+
   example - `LinkedListForStrings.print();`
 
+
 `size()` - Returns size of linked list.
+
   example - `LinkedListForStrings.size();`
 
+
 `sort()` - Sorts linked list.
+
   example - `LinkedListForStrings.sort();`
 

@@ -1,5 +1,5 @@
 # A ***(another)*** linked list library
-Linked list header only library for c++ 
+Linked list header only library for C++ 
 
 1. [Run test's](#tests)  
 2. [Install for project](#projects)  

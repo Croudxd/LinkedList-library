@@ -1,8 +1,11 @@
 # A ***(another)*** linked list library
 Linked list header only library for c++ 
+
 1.[Run test's](#tests)
-2.Install for project
-3. Documentation
+
+2.[Install for project](#projects)
+
+3. [Documentation](#documentation)
 
 # Tests
 To run test's:

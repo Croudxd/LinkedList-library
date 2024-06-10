@@ -10,7 +10,7 @@ To run test's:
 1. Download files
 2. Compile files with `gcc -o main main.cpp` 
 
-# Projets
+# Projects
 To use in a project:
 1. Download files
 2. Drag header files (linkedlist.h, node.h) into your project.  

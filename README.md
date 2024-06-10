@@ -21,7 +21,7 @@ Functions:
 `add(T value)` - Adds a value to the list.
   example - `LinkedListForStrings.add("hello");`
 
-`print()` - Prints the whole linked list.
+`print()` - Prints the whole linked list.\n
   example - `LinkedListForStrings.print();`
 
 `size()` - Returns size of linked list.

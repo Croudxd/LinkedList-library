@@ -31,17 +31,17 @@ Start by importing into project `import "linkedlist.h"`
   example - `LinkedListForStrings.add("hello");`  
 
 
- `print()` - Prints the whole linked list.
+ + `print()` - Prints the whole linked list.
 
   example - `LinkedListForStrings.print();`  
 
 
- `size()` - Returns size of linked list.
+ + `size()` - Returns size of linked list.
 
   example - `LinkedListForStrings.size();`  
 
 
- `sort()` - Sorts linked list.
+ + `sort()` - Sorts linked list.
 
   example - `LinkedListForStrings.sort();`
 

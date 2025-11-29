@@ -13,7 +13,7 @@ To run test's:
 # Projects
 To use in a project:
 1. Download files
-2. Drag header files (linkedlist.h, node.h) into your project.  
+2. Drag header files (linkedlist.h, node.h) into your project.
 
 # Documentation:
 

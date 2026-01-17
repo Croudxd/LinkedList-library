@@ -1,7 +1,7 @@
 CXX = g++
-CXXFLAGS = -std=c++20 -Wall -Wextra -I -g 
+CXXFLAGS = -std=c++20 -Wall -Wextra -I . -g 
 SRC = test.cpp
-LIBS = -lglfw -ldl
+LIBS = -ldl
 OUT = test 
 
 all:

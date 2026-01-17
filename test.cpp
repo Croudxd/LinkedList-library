@@ -1,7 +1,5 @@
 //main.cpp
 
-#include <iostream>
-#include "../linkedlist.h"
 #include "test.h"
 
 int main()
